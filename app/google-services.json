@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "369303167263",
+    "project_id": "fir-app-36b01",
+    "storage_bucket": "fir-app-36b01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369303167263:android:fcbdfb5e435369775b102a",
+        "android_client_info": {
+          "package_name": "com.anchal.canteentest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "369303167263-6m17m3448cf81ua9jc3t2b2lhead62hf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBA6qBHaHQBBgFHUxCCqfFixTmbI3_sYk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "369303167263-6m17m3448cf81ua9jc3t2b2lhead62hf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
